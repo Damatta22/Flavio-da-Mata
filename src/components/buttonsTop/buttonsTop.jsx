@@ -8,7 +8,7 @@ export function ButtonsTop() {
       <button className="talkToMe">Talk To Me</button>
       <a
         className="Flavio"
-        href="https://drive.google.com/file/d/1uJzavHkagm5W138zIKz8Ir-Vt83tBCOp/view?usp=sharing"     
+        href="https://drive.google.com/file/d/1uJzavHkagm5W138zIKz8Ir-Vt83tBCOp/view?usp=sharing"
         
       >
         Download-CV

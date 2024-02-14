@@ -11,7 +11,7 @@ export function ButtonsTop() {
         href="https://drive.google.com/file/d/1uJzavHkagm5W138zIKz8Ir-Vt83tBCOp/view?usp=sharing"     
         
       >
-        Click for Download
+        Download-CV
       </a>
     </div>
   );
